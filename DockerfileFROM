@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER <Harry Zhang : zh.harry@yahoo.ca>
+MAINTAINER <Aniket Solankure : aniket.solankure@icloud.com>
 
 # Installs necesseary packages
 RUN apt-get update && \
